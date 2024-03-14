@@ -48,7 +48,3 @@ To install the application, follow these steps:
 - The converted value will be displayed in real-time.
 
 - Repeat the process for any other conversions.
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
