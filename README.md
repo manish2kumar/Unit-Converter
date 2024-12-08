@@ -29,7 +29,7 @@ To install the application, follow these steps:
 - Clone this repository to your local machine.
 
 ```http
-  git clone https://github.com/yourusername/Unit-Converter.git
+  git clone https://github.com/manish2kumar/Unit-Converter.git
 ```
 - Open the project in Android Studio.
 
